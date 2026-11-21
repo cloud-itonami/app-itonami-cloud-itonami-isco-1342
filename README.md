@@ -1,4 +1,5 @@
 # cloud-itonami-isco-1342
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 1342. This app is not produced, reviewed or endorsed by the ILO.
 
 Open Business Blueprint for **ISCO-08 1342**: Health Services Managers — an ISCO
 **Wave 1 (design & governance)** occupation per ADR-2607121000. This
